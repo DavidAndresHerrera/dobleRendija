@@ -41,14 +41,14 @@ Se diseña una especie de puerta para poder apoyar el papel aluminio.
 ![](/imagenes/papel2.jpeg "papel2")
 Al papel se le realizan dos cortes bastante cercanos con el fin de lograr una doble rendija con una separacion minima.
 
-![](/imagenes/montaje.jpg "montaje")
+![](/imagenes/montaje.jpeg "montaje")
 Montaje con todas las piezas anteriormente mencionadas.
 
-![](/imagenes/laser.jpg "laser")
+![](/imagenes/laser.jpeg "laser")
 Con ayuda de un laser se apunta a la doble rendija para lograr el patron deseado.
 
 ![](/imagenes/maqueta.jpg "maqueta")
 Maqueta finalizada con todos los materiales anteriormente mencionados y explicados.
 
-![](/imagenes/simulacion.jpg "simulacion")
+![](/imagenes/simulacion.png "simulacion")
 Se realiza la simulacion en python.

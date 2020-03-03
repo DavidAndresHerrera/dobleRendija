@@ -25,6 +25,7 @@ El experimento inicialmente consistió en determinar el largo, ancho y la distan
 ![](/imagenes/caja.jpg "caja")
 ![](/imagenes/base.jpg "base")
 ![](/imagenes/puerta.jpg "puerta")
+![](/imagenes/papel2.jpg "papel2")
 ![](/imagenes/montaje.jpg "montaje")
 ![](/imagenes/laser.jpg "laser")
 ![](/imagenes/maqueta.jpg "maqueta")

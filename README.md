@@ -21,5 +21,12 @@ El experimento inicialmente consistió en determinar el largo, ancho y la distan
 
 # Descripcion
 
-![](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
-
+![](/imagenes/materiales.jpg "materiales")
+![](/imagenes/caja.jpg "caja")
+![](/imagenes/base.jpg "base")
+![](/imagenes/puerta.jpg "puerta")
+![](/imagenes/papel.jpg "papel")
+![](/imagenes/montaje.jpg "montaje")
+![](/imagenes/laser.jpg "laser")
+![](/imagenes/maqueta.jpg "maqueta")
+![](/imagenes/simulacion.jpg "simulacion")

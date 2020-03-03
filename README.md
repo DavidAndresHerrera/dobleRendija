@@ -22,11 +22,33 @@ El experimento inicialmente consistió en determinar el largo, ancho y la distan
 # Descripcion
 
 ![](/imagenes/materiales.jpg "materiales")
+Los materiales utilizados para realizar el experimento fueron:
+1. Carton paja
+2. Papel aluminio
+3. Bisturi
+4. Pegante
+5. Laser
+
 ![](/imagenes/caja.jpg "caja")
+Se realizo una caja para evitar que la luz estropeara el patron esperado.
+
 ![](/imagenes/base.jpg "base")
+Con ayuda de una caja se realiza una base para poder apoyar el laser y evitar asi que se mueva.
+
 ![](/imagenes/puerta.jpg "puerta")
+Se diseña una especie de puerta para poder apoyar el papel aluminio.
+
 ![](/imagenes/papel2.jpeg "papel2")
+Al papel se le realizan dos cortes bastante cercanos con el fin de lograr una doble rendija con una separacion minima.
+
 ![](/imagenes/montaje.jpg "montaje")
+Montaje con todas las piezas anteriormente mencionadas.
+
 ![](/imagenes/laser.jpg "laser")
+Con ayuda de un laser se apunta a la doble rendija para lograr el patron deseado.
+
 ![](/imagenes/maqueta.jpg "maqueta")
+Maqueta finalizada con todos los materiales anteriormente mencionados y explicados.
+
 ![](/imagenes/simulacion.jpg "simulacion")
+Se realiza la simulacion en python.

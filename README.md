@@ -52,3 +52,4 @@ Maqueta finalizada con todos los materiales anteriormente mencionados y explicad
 
 ![](/imagenes/simulacion.png "simulacion")
 Se realiza la simulacion en python.
+![](/imagenes/prob.png "simulacion imagen")
